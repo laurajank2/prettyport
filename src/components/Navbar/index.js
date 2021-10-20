@@ -7,13 +7,14 @@ import {
   NavBtn,
   NavBtnLink
 } from './NavbarElements';
+import '../../styles/logo.css';
 
 const Navbar = () => {
   return (
-    <>
+    <div class="pageBackground">
       <Nav>
         <NavLink to='/'>
-          <h1>Logo</h1>
+          <h1 class="text" >Laura Jankowski </h1>
         </NavLink>
         <Bars />
         <NavMenu>
@@ -23,9 +24,6 @@ const Navbar = () => {
           <NavLink to='/services' activeStyle>
             Services
           </NavLink>
-          <NavLink to='/contact-us' activeStyle>
-            Contact Us
-          </NavLink>
           <NavLink to='/sign-up' activeStyle>
             Sign Up
           </NavLink>
@@ -33,10 +31,10 @@ const Navbar = () => {
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
         <NavBtn>
-          <NavBtnLink to='/signin'>Sign In</NavBtnLink>
+          <NavBtnLink to='/contact-me'>Contact Me</NavBtnLink>
         </NavBtn>
       </Nav>
-    </>
+    </div>
   );
 };
 
