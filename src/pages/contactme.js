@@ -1,5 +1,6 @@
 import React from 'react'
 import emailjs from 'emailjs-com';
+import "./../styles/contact.css";
 
 const ContactMe = () => {
     function sendEmail(e){
@@ -16,33 +17,34 @@ const ContactMe = () => {
     }
     
     return (
-        <div className="container border" 
-        style={{marginTop: "50px", 
-                width: '50%', 
-                backgroundImage: `url('https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500')`,
-                backgroundPosition: 'center',
-                backgroundSize: 'cover'
-                }}>
-            <h1>Contact Me</h1>
-            <form onSubmit={sendEmail}>
+        <div>
+            <h1 style = {{display: 'flex', justifyContent: 'center', alignItems: 'center'}} className="contactheader">Contact Me</h1>
+            <form className="contactbody" onSubmit={sendEmail}>
                 <label>
                     Name
                 </label>
-                <input type="text" name="name">
+                <br />
+                <input className="contactform" type="text" name="name">
                 </input>
+                <br />
                 <label>
                     Email
                 </label>
-                <input type="email" name="user_email">
+                <br />
+                <input className="contactform" type="email" name="user_email">
                 </input>
+                <br />
                 <label>
                     Message
                 </label>
-                <textarea name="message" rows="4">
+                <br />
+                <textarea className="contactform" name="message" rows="4">
                 </textarea>
-                <input type='submit' value='send'/>
+                <br />
+                <button className="btncu" type='submit' value='send'>Send </button>
 
             </form>
+
         </div>
     )
 }

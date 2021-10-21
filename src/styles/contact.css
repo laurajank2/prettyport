@@ -1,14 +1,74 @@
-.title {
-    display: 'flex';
-    height:'90vh';
-    padding: 1vh;
-    align-items: center;
+.contactheader {
+    border: none;
+    background-color: transparent;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 5vh;
+    
+  }
+
+.contactbody {
+  border: none;
+  background-color: transparent;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-family: futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+}
+.contactform {
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid rgb(79, 84, 85);
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-family: futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
 }
 
-input {
-    width: 600px;
+.btncu {
+  margin-top: 1%;
+  margin-bottom: 30%;
+  border-radius: 4px;
+  background-color: rgb(167, 197, 197); /* Green */
+  border: none;
+  color: white;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
 }
-textarea {
-height: 10em;
-width: 600px;
+
+.btncu {
+  transition-duration: 0.2s;
+}
+
+.btncu:hover {
+  background-color: rgba(162, 190, 190); /* Green */
+  color: rgb(138, 143, 143);
+}
+
+.btncu:disabled {
+  background-color: rgb(167, 197, 197, 0.5); /* Green */
+  color: rgb(138, 143, 143);
 }
