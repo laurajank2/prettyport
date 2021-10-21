@@ -1,0 +1,14 @@
+.title {
+    display: 'flex';
+    height:'90vh';
+    padding: 1vh;
+    align-items: center;
+}
+
+input {
+    width: 600px;
+}
+textarea {
+height: 10em;
+width: 600px;
+}
