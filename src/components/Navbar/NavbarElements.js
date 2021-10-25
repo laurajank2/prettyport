@@ -23,6 +23,8 @@ export const NavLink = styled(Link)`
   cursor: pointer;
   white-space: nowrap;
   overflow: hidden;
+  font: 3vh bolder;
+  font-family: 'Josefin Slab', serif;
 
   &:hover {
     transition: all 0.2s ease-in-out;
@@ -30,6 +32,7 @@ export const NavLink = styled(Link)`
   }
   &.active {
     color: #020203;
+    font-family: 'Josefin Slab', serif;
   }
 `;
 
@@ -52,6 +55,7 @@ export const NavMenu = styled.div`
   display: flex;
   align-items: center;
   margin-right: -24px;
+  margin-top: 10px;
 
   /* Second Nav */
   /* margin-right: 24px; */
@@ -69,6 +73,7 @@ export const NavBtn = styled.nav`
   display: flex;
   align-items: center;
   margin-right: 24px;
+  font-family: 'Josefin Slab', serif;
 
   /* Third Nav */
   /* justify-content: flex-end;
@@ -83,13 +88,16 @@ export const NavBtn = styled.nav`
 export const NavBtnLink = styled(Link)`
   border-radius: 4px;
   background: #587280;
-  padding: 10px 22px;
+  padding: 12px 20px;
   color: #fff;
   outline: none;
   border: none;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
+  font-family: 'Josefin Slab', serif;
+  font-size: 2.5vh;
+  
 
   /* Second Nav */
   margin-left: 24px;

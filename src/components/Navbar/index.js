@@ -1,41 +1,72 @@
-import React from 'react';
+
+import React, { useState } from "react";
+import * as AiIcons from "react-icons/ai";
+import { Link } from "react-router-dom";
+import { SidebarData } from "./SidebarData";
 import {
   Nav,
   NavLink,
   Bars,
   NavMenu,
   NavBtn,
-  NavBtnLink
-} from './NavbarElements';
-import '../../styles/logo.css';
+  NavBtnLink,
+} from "./NavbarElements";
+import "../../styles/sidebar.css";
+import "../../styles/fonts.css";
 
-const Navbar = () => {
+function Navbar() {
+  
+  const [sidebar, setSidebar] = useState(false);
+
+  const showSidebar = () => setSidebar(!sidebar);
+  
   return (
     <div class="pageBackground">
       <Nav>
-        <NavLink to='/'>
-          <h1 class="text" >Laura Jankowski </h1>
+        <NavLink to="/">
+          <h1 class="text">Laura Jankowski </h1>
         </NavLink>
-        <Bars />
+        <Bars
+            className={sidebar ? "menu-bars active" : "menu-bars"}
+            onClick={showSidebar}
+          />
+        <nav className={sidebar ? "nav-menu active" : "nav-menu"}>
+          <li className="navbar-toggle" onClick={showSidebar}>
+            <Link to="#" className="menu-bars">
+              <AiIcons.AiOutlineClose />
+            </Link>
+          </li>
+          <ul className="nav-menu-items" onClick={showSidebar}>
+            {SidebarData.map((item, index) => {
+              return (
+                <li key={index} className={item.cName}>
+                  <Link to={item.path}>
+                    <span>{item.title}</span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </nav>
         <NavMenu>
-          <NavLink to='/about' activeStyle>
+          <NavLink to="/about" activeStyle>
             About
           </NavLink>
-          <NavLink to='/services' activeStyle>
-            Services
+          <NavLink to="/projects" activeStyle>
+            Projects
           </NavLink>
-          <NavLink to='/sign-up' activeStyle>
+          <NavLink to="/sign-up" activeStyle>
             Sign Up
           </NavLink>
           {/* Second Nav */}
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
         <NavBtn>
-          <NavBtnLink to='/contact-me'>Contact Me</NavBtnLink>
+          <NavBtnLink to="/contact-me">Contact Me</NavBtnLink>
         </NavBtn>
       </Nav>
     </div>
   );
-};
+}
 
 export default Navbar;
