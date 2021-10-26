@@ -1,14 +1,43 @@
 .header {
-    border: none;
-    background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4vh;
-    margin-bottom: 2%;
-    font-family: 'Playfair Display', serif;
-    font-style: normal;
-    font-weight: 1000;
-    font-size: 5vh;
-    text-align: center;
-    
-  }
+  border: none;
+  background-color: transparent;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4vh;
+  margin-bottom: 2%;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 5vh;
+  text-align: center;
+  list-style: none;
+}
+
+
+.title {
+  list-style: none;
+}
+
+.small-title {
+  margin-left: 5vh;
+  margin-right: 5vh;
+}
+
+.info {
+  padding-left: 2vh;
+}
+
+.row {
+  display: flex;
+  padding-bottom: 4vh;
+  margin-left: 5vh;
+  margin-right: 5vh;
+}
+
+.column{
+  flex: 33.33%;
+  padding: 5px;
+  background-color: white;
+  font: 20vh;
+  
+}

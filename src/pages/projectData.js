@@ -1,28 +1,28 @@
-import React from 'react'
-
-
 export const ProjectData = [
     {
         title: 'Nirox Arts',
-        image: "",
+        image: "https://thereader.mitpress.mit.edu/wp-content/uploads/2020/11/pacman-lead-graphic-700x420.jpg",
         info: "",
-        cName: 'nav-text'
+        imgCName: "img",
+        headerCName: 'title'
 
     }, 
 
     {
         title: 'Pacman',
-        image: "",
+        image: "https://thereader.mitpress.mit.edu/wp-content/uploads/2020/11/pacman-lead-graphic-700x420.jpg",
         info: "",
-        cName: 'nav-text'
+        imgCName: "img",
+        headerCName: 'title'
 
     }, 
 
     {
         title: 'Tetris',
-        image: "",
-        info: "",
-        cName: 'nav-text'
+        image: "https://thereader.mitpress.mit.edu/wp-content/uploads/2020/11/pacman-lead-graphic-700x420.jpg",
+        info: "Blah Blah",
+        imgCName: "img",
+        headerCName: 'title'
 
     }, 
 
@@ -30,7 +30,8 @@ export const ProjectData = [
         title: 'Graph',
         image: "",
         info: "",
-        cName: 'nav-text'
+        imgCName: "img",
+        headerCName: 'title'
 
     }, 
 ]
