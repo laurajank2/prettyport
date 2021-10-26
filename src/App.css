@@ -2,3 +2,14 @@
   background-color: #dde9f0;
   height: 100%;
 }
+
+.bigbackground {
+  background-color: #dde9f0;
+  height: 100vh;
+  z-index: -100;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+}

@@ -11,7 +11,8 @@ import Projects from "./pages/projects";
 function App() {
   return (
     <div className="background">
-        <Router>
+        <div className="bigbackground"/>
+        <Router >
           <Navbar />
           <Switch>
             <Route path="/" exact component={Home} />
