@@ -7,9 +7,7 @@ import {
   Nav,
   NavLink,
   Bars,
-  NavMenu,
-  NavBtn,
-  NavBtnLink,
+  NavMenu
 } from "./NavbarElements";
 import "../../styles/sidebar.css";
 import "../../styles/fonts.css";
@@ -23,9 +21,6 @@ function Navbar() {
   return (
     <div class="pageBackground">
       <Nav>
-        <NavLink to="/">
-          <h1 class="text">Laura Jankowski </h1>
-        </NavLink>
         <Bars
             className={sidebar ? "menu-bars active" : "menu-bars"}
             onClick={showSidebar}

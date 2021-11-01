@@ -29,7 +29,7 @@ export const ProjectData = [
     {
         title: 'Graph',
         date: "July 2021 - August 2021",
-        image: "https://lh4.googleusercontent.com/ct1QhRXGHckfpM7uuSrpelfv4MA6VnGTzB9B8lnG5CYWU4DlCzyW1qBeRVKYf5QiUIdwOQJhLmQbLgm0Z8ZZ2bnbXt-uvqvG1Abo96pIIofvxLy_jfS9KBMymWSG96A0fw=w1280",
+        image: "https://lh6.googleusercontent.com/ndOwkjendvZqGMuPZdqYAFz9TrHY8p4aNFKLJsnqMeS15woByh-7P_cWGbM6jpcMDcZy1uw2t4kgn1Kg2lbiWHhppUpzi1j1Qt3MDFPhOxDzHw5QM7OjXfPbzKrTejKaQQ=w1280",
         info1: "Final Project for Data Structures and Algorithms",
         info2: "Created updatable node system and implemented PageRank and Prim-Jarnik algorithms",
         info3: "Wrote exhausitve testing suite to ensure the programs ran correctly",

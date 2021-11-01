@@ -4,10 +4,9 @@ import styled from 'styled-components';
 
 export const Nav = styled.nav`
   background: #dde9f0;
-  height: 75px;
+  height: 100%;
   display: flex;
   justify-content: space-between;
-  z-index: 3;
 
   /* Third Nav */
   /* justify-content: flex-start; */
@@ -25,6 +24,7 @@ export const NavLink = styled(Link)`
   overflow: hidden;
   font: 3vh bolder;
   font-family: 'Josefin Slab', serif;
+  margin: auto;
 
   &:hover {
     transition: all 0.2s ease-in-out;
@@ -54,6 +54,7 @@ export const Bars = styled(FaBars)`
 export const NavMenu = styled.div`
   display: flex;
   align-items: center;
+  margin: auto;
   margin-top: 10px;
 
   /* Second Nav */
