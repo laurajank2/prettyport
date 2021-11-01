@@ -2,7 +2,6 @@
   .menu-bars {
     position: absolute;
     right: 0;
-    margin-right: 2rem;
     font-size: 1.5rem;
     background: none;
   }
@@ -15,7 +14,7 @@
     justify-content: center;
     position: fixed;
     top: 0;
-    right: -100%;
+    right: -200%;
     transition: 850ms;
     
   }
@@ -70,7 +69,7 @@
     width: 100%;
     height: 80px;
     display: flex;
-    justify-content: start;
+    justify-content: flex-start;
     align-items: center;
   }
   

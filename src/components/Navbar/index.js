@@ -55,15 +55,18 @@ function Navbar() {
           <NavLink to="/projects" activeStyle>
             Projects
           </NavLink>
-          <NavLink to="/sign-up" activeStyle>
-            Sign Up
+          <NavLink to="/community" activeStyle>
+            Community
+          </NavLink>
+          <NavLink to="/contact-me" activeStyle>
+            Contact Me
           </NavLink>
           {/* Second Nav */}
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
-        <NavBtn>
+        {/* <NavBtn>
           <NavBtnLink to="/contact-me">Contact Me</NavBtnLink>
-        </NavBtn>
+        </NavBtn> */}
       </Nav>
     </div>
   );

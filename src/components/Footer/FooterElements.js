@@ -17,13 +17,13 @@ export const NavLink = styled(Link)`
   display: flex;
   align-items: center;
   text-decoration: none;
-  font-size: 2vh;
+  font-size: 18px;
   padding: 0 1rem;
   height: 100%;
   cursor: pointer;
   white-space: nowrap;
   overflow: hidden;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Josefin Slab', serif;
 
   &:hover {
     transition: all 0.2s ease-in-out;

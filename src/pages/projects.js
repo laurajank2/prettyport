@@ -12,10 +12,15 @@ function Projects() {
                     <h2 className='small-title'>{item.title}</h2>
                     <div className="row">
                       <div className="column">
-                        <p className="info">{item.info}</p>
+                        <p>{item.date}</p>
+                        <ul>
+                          <li>{item.info1}</li>
+                          <li>{item.info2}</li>
+                          <li>{item.info3}</li>
+                        </ul>
                       </div>
                       <div className="column">
-                        <img src={item.image} width="100%" height="300"></img>
+                        <img src={item.image} width="100%" alt={item.imgAlt}></img>
                       </div>
                     </div>
                 </li>

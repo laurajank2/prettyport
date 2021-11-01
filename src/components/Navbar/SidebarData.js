@@ -21,6 +21,13 @@ export const SidebarData = [
     }, 
 
     {
+        title: 'Community',
+        path: '/community',
+        cName: 'nav-text'
+
+    }, 
+
+    {
         title: 'Contact Me',
         path: '/contact-me',
         cName: 'nav-text'

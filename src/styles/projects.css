@@ -3,12 +3,12 @@
   background-color: transparent;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 4vh;
+  margin-top: 5vh;
   margin-bottom: 2%;
-  font-family: "Playfair Display", serif;
+  font-family: 'Josefin Slab', serif;
   font-style: normal;
   font-weight: 1000;
-  font-size: 5vh;
+  font-size: 10vh;
   text-align: center;
   list-style: none;
 }
@@ -21,10 +21,12 @@
 .small-title {
   margin-left: 5vh;
   margin-right: 5vh;
+  font-family: 'Josefin Slab', serif;
 }
 
 .info {
   padding-left: 2vh;
+  font-size: 20px;
 }
 
 .row {
@@ -38,6 +40,7 @@
   flex: 33.33%;
   padding: 5px;
   background-color: white;
-  font: 20vh;
+  font-size: 20px;
+  font-family: 'Josefin Sans', serif;
   
 }
