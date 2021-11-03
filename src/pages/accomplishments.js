@@ -1,12 +1,12 @@
 import React from 'react';
-import { ProjectData } from "./projectData";
+import { AccomplishmentsData } from "./accomplishmentsData";
 import "./../styles/projects.css";
 
-function Projects() {
+function Accomplishments() {
     return (
         <div className="background">
-            <h1 className="header">Projects</h1>
-            {ProjectData.map((item, index) => {
+            <h1 className="header">Accomplishments</h1>
+            {AccomplishmentsData.map((item, index) => {
               return (
                 
                 <li key={index} className={item.headerCName}>
@@ -15,9 +15,7 @@ function Projects() {
                       <div className="column">
                         <p>{item.date}</p>
                         <ul>
-                          <li>{item.info1}</li>
-                          <li>{item.info2}</li>
-                          <li>{item.info3}</li>
+                          <li>{item.info}</li>
                         </ul>
                       </div>
                       <div className="column">
@@ -31,5 +29,5 @@ function Projects() {
     )
 }
 
-export default Projects;
+export default Accomplishments;
 

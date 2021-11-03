@@ -1,0 +1,24 @@
+.comheader {
+  border: none;
+  background-color: transparent;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+  margin-bottom: 2%;
+  font-family: "Josefin Slab", sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 10vh;
+}
+
+.name {
+  list-style: none;
+  margin-bottom: 4vh;
+}
+
+.inforow {
+  flex: 100%;
+  padding: 2vh;
+  background-color: white;
+}

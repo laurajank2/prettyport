@@ -29,7 +29,7 @@ export const ProjectData = [
     {
         title: 'Graph',
         date: "July 2021 - August 2021",
-        image: "https://lh6.googleusercontent.com/ndOwkjendvZqGMuPZdqYAFz9TrHY8p4aNFKLJsnqMeS15woByh-7P_cWGbM6jpcMDcZy1uw2t4kgn1Kg2lbiWHhppUpzi1j1Qt3MDFPhOxDzHw5QM7OjXfPbzKrTejKaQQ=w1280",
+        image: "https://lh4.googleusercontent.com/Ms2ytVYaiSTx7wO4_DKLWE5AT14MVm4eHFKVTyvj_4frTXwtXXRJkRGYEXepCEwmK_IFeqjB8EJcxwZBE_Mrvpx2RBBJp2y8xs1cb5qjhCQr--IoZ-p-D8ChVPWg84l0Lg=w1280",
         info1: "Final Project for Data Structures and Algorithms",
         info2: "Created updatable node system and implemented PageRank and Prim-Jarnik algorithms",
         info3: "Wrote exhausitve testing suite to ensure the programs ran correctly",
@@ -67,7 +67,7 @@ export const ProjectData = [
 
     {
         title: 'Nirox Arts',
-        image: "https://lh4.googleusercontent.com/2cZEPofSPHUMDr-m4XxxGCb4BGPF9BSCMug88YjSrn5V1xkDf8KKiCc5k1XfgWmveDoNfJmKJdeURTkBE48WjXhD5OaHYofSRuw8-kw7BOyG3fDNDqJ1WacuzHfY3tpKYQ=w1280",
+        image: "https://lh4.googleusercontent.com/weCym5TD4mVoar7dxW7YR2RYy4paYuNpOJxIMHaDLOOualTo7nm2CoycA7R8UZBMSYIjYrekm_joPgIIWqFdrcDEkD5GDIWjxv1ATdFyvQ5YWxejUksfcKJlPwwiH3Y6Ag=w1280",
         date: "June 2020 - August 2020",
         info1: "Developed web applications using HTML 5, CSS 3 and Javascript/Typescript with one partner",
         info2: "Implemented full-stack applications using React and modeled, retrieved, and stored data in Firebase(remote cloud database)",

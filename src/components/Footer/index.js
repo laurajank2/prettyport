@@ -7,6 +7,7 @@ const Footer = () => {
   return (
     <div className="phantom">
       <div className="footer">
+       
         <Nav>
           <NavMenu>
             <NavLink to="/about" activeStyle>
