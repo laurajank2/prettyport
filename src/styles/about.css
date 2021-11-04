@@ -12,11 +12,22 @@
   font-size: 10vh;
 }
 
-.aboutrow {
-  display: flex;
+.aboutimg {
+  float: left;
+  height: 70vh;
+  padding: 5vh;
+  padding-top: 0vh;
+  padding-bottom: 0vh;
+  font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 500;
 }
 
-.aboutcolumn {
-  flex: 100%;
-  padding-right: 2vh;
+.aboutinfo {
+  text-align: justify;
+  padding: 5vh;
+  padding-top: 0vh;
+  font-family: "Josefin Sans", sans-serif;
+  font-style: normal;
+  font-size: 22.5px;
 }
