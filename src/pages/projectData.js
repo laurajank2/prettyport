@@ -29,7 +29,7 @@ export const ProjectData = [
     {
         title: 'Graph',
         date: "July 2021 - August 2021",
-        image: "https://lh4.googleusercontent.com/Ms2ytVYaiSTx7wO4_DKLWE5AT14MVm4eHFKVTyvj_4frTXwtXXRJkRGYEXepCEwmK_IFeqjB8EJcxwZBE_Mrvpx2RBBJp2y8xs1cb5qjhCQr--IoZ-p-D8ChVPWg84l0Lg=w1280",
+        image: "https://i.ibb.co/n7jvqsr/Screen-Shot-2021-10-31-at-6-11-08-PM.jpg",
         info1: "Final Project for Data Structures and Algorithms",
         info2: "Created updatable node system and implemented PageRank and Prim-Jarnik algorithms",
         info3: "Wrote exhausitve testing suite to ensure the programs ran correctly",
@@ -67,7 +67,7 @@ export const ProjectData = [
 
     {
         title: 'Nirox Arts',
-        image: "https://lh4.googleusercontent.com/weCym5TD4mVoar7dxW7YR2RYy4paYuNpOJxIMHaDLOOualTo7nm2CoycA7R8UZBMSYIjYrekm_joPgIIWqFdrcDEkD5GDIWjxv1ATdFyvQ5YWxejUksfcKJlPwwiH3Y6Ag=w1280",
+        image: "https://i.ibb.co/x21jJs1/Screen-Shot-2021-10-28-at-7-35-26-PM.png",
         date: "June 2020 - August 2020",
         info1: "Developed web applications using HTML 5, CSS 3 and Javascript/Typescript with one partner",
         info2: "Implemented full-stack applications using React and modeled, retrieved, and stored data in Firebase(remote cloud database)",

@@ -18,13 +18,13 @@ const Community = () => {
       {CommunityData.map((item, index) => {
         return (
           <li key={index} className={item.headerCName}>
-            <div className="aboutrow">
-              <div className="aboutcolumn">
+            <div className="communityrow">
+              <div className="communitycolumn">
                 <img
                   className="image"
                   src={item.image}
                   alt="photo of me :)"
-                  width="50%"
+                  width="100%"
                 ></img>
               </div>
               <div className="inforow">

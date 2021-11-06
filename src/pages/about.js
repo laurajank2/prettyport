@@ -17,7 +17,7 @@ const About = () => {
       <div className="aboutrow">
           <img
             className="aboutimg"
-            src="https://wallpaperaccess.com/full/140714.jpg"
+            src="https://i.ibb.co/qrWD3GP/image.jpg"
             alt="photo of me :)"
           ></img>
 
