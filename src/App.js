@@ -9,7 +9,7 @@ import About from "./pages/about";
 import ContactMe from "./pages/contactme";
 import Projects from "./pages/projects";
 import Community from "./pages/community";
-import Accomplishments from "./pages/accomplishments";
+import Engagement from "./pages/engagement";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
             <Route path="/contact-me" component={ContactMe} />
             <Route path="/projects" component={Projects} />
             <Route path="/community" component={Community} />
-            <Route path="/accomplishments" component={Accomplishments} />
+            <Route path="/engagement" component={Engagement} />
           </Switch>
           <Footer />
         </Router>

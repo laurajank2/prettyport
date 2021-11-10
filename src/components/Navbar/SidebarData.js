@@ -28,8 +28,8 @@ export const SidebarData = [
     }, 
 
     {
-        title: 'Accomplishments',
-        path: '/accomplishments',
+        title: 'Engagement',
+        path: '/engagement',
         cName: 'nav-text'
 
     }, 

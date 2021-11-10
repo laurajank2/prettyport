@@ -53,8 +53,8 @@ function Navbar() {
           <NavLink to="/community" activeStyle>
             Community
           </NavLink>
-          <NavLink to="/accomplishments" activeStyle>
-            Accomplishments
+          <NavLink to="/engagement" activeStyle>
+            Engagement
           </NavLink>
           <NavLink to="/contact-me" activeStyle>
             Contact Me

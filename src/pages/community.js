@@ -23,7 +23,7 @@ const Community = () => {
                 <img
                   className="image"
                   src={item.image}
-                  alt="photo of me :)"
+                  alt="me :)"
                   width="100%"
                 ></img>
               </div>
