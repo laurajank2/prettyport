@@ -16,7 +16,7 @@ function Projects() {
                 <img src={item.image} width="100%" alt={item.imgAlt}></img>
               </div>
               <div className="columninfo">
-                <p>{item.date}</p>
+                <p className="date">{item.date}</p>
                 <ul>
                   <li>{item.info1}</li>
                   <li>{item.info2}</li>

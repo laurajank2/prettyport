@@ -24,20 +24,20 @@ const Home = () => {
             alt="3"
           />
         </figure>
-        <figure className="gallery__item gallery__item--4">
+        {/* <figure className="gallery__item gallery__item--4">
           <img
             src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/herring-cove-beach-sunset-square-bill-wakeley.jpg"
             className="gallery__img"
             alt="4"
           />
-        </figure>
-        <figure className="gallery__item gallery__item--5">
+        </figure> */}
+        {/* <figure className="gallery__item gallery__item--5">
           <img
             src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/herring-cove-beach-sunset-square-bill-wakeley.jpg"
             className="gallery__img"
             alt="5"
           />
-        </figure>
+        </figure> */}
         <figure className="gallery__item gallery__item--6">
           <img
             src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/herring-cove-beach-sunset-square-bill-wakeley.jpg"

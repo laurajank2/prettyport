@@ -49,6 +49,10 @@
   font-family: "Josefin Sans", serif;
 }
 
+.date {
+  font-size: 3vh;
+}
+
 @media screen and (max-width: 768px) {
   .columninfo {
     flex: none;

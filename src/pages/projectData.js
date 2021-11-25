@@ -25,6 +25,20 @@ export const ProjectData = [
         headerCName: 'title'
 
     }, 
+
+    {
+        title: "Terminal Hackathon",
+        date: "September 2021",
+        image:
+          "https://localist-images.azureedge.net/photos/31211567787485/huge/040c8041ea1d28293d63cd9c33e019de401b72ea.jpg",
+        info1:
+          "Earned priority entry into national hackaton through top score on timed computer science assessment",
+        info3: "Terminal Hackathon run by Citadel and Citadel Securities",
+        info2: "Assessment included questions about data structures and knowledge of Java",
+        imgAlt: "terminal hackathon logo",
+        imgCName: "img",
+        headerCName: "name",
+      },
     
     {
         title: 'Graph',
