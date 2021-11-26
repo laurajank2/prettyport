@@ -13,12 +13,10 @@ const Footer = () => {
             <NavLink to="/about" activeStyle>
               About
             </NavLink>
-            <NavLink to="/services" activeStyle>
-              Services
-            </NavLink>
             <NavLink to="/contact-me" activeStyle>
               Contact Me
             </NavLink>
+            {/* <a href="www.linkedin.com/in/laura-jankowski-b795611ab" class="fa fa-linkedin"></a> */}
             {/* Second Nav */}
             {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
           </NavMenu>

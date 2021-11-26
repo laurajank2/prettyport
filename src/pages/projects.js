@@ -8,7 +8,7 @@ function Projects() {
       <h1 className="header">Projects</h1>
       {ProjectData.map((item, index) => {
         return (
-          <li key={index} className={item.headerCName}>
+          <li key={index} className="name">
             <h2 className="small-title">{item.title}</h2>
 
             <div className="row">

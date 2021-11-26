@@ -49,6 +49,16 @@ export const Bars = styled(FaBars)`
     font-size: 1.8rem;
     cursor: pointer;
   }
+
+  @media screen and (max-width: 550px) {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-20%, 20%);
+    font-size: 1.25rem;
+    cursor: pointer;
+  }
 `;
 
 export const NavMenu = styled.div`

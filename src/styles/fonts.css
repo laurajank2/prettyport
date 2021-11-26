@@ -1,16 +1,24 @@
-.text{
-    font-family: 'Josefin Sans', sans-serif;
-    font:                           bolder 7vh 'Josefin Sans';
-    text-align:                     left;
-    background:                     url("https://media0.giphy.com/media/lFNmSjRDN9SiLJ3a9Z/200.gif") center;
-    background-size:                contain;
-    width:                          auto;
-    background-clip:                text;
-    -webkit-background-clip:        text;
-    color:                          transparent;
-    margin-top: 4vh;
-    margin-bottom: 1vh;
+.text {
+  font-family: "Josefin Sans", sans-serif;
+  font: bolder 10vh "Josefin Sans";
+  text-align: left;
+  background: url("https://media0.giphy.com/media/lFNmSjRDN9SiLJ3a9Z/200.gif")
+    center;
+  background-size: contain;
+  width: auto;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  margin-top: 4vh;
+  margin-bottom: 1vh;
+}
+
+@media screen and (max-width: 768px) {
+  .columninfo {
+    flex: none;
   }
 
-
-  
+  .text {
+    font: bolder 10vw "Josefin Sans";
+  }
+}

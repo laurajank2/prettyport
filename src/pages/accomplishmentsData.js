@@ -97,7 +97,7 @@ export const AccomplishmentsData = [
       "https://1.bp.blogspot.com/-gUrLaV_jpO8/TZys4yBb85I/AAAAAAAABbo/fvlsroQR96M/s1600/gold%2Baward.jpg",
     info1:
       "Completed dozens of girl scout badges and a 100+ hour project focused on teaching public speaking",
-    info2: "",
+    info2: "Success documented through surveys taken at beginning and end of public speaking curriculum",
     imgAlt: "gold award logo",
     imgCName: "img",
     headerCName: "name",

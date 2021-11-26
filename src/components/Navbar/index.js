@@ -50,9 +50,9 @@ function Navbar() {
           <NavLink to="/projects" activeStyle>
             Projects
           </NavLink>
-          <NavLink to="/community" activeStyle>
+          {/* <NavLink to="/community" activeStyle>
             Community
-          </NavLink>
+          </NavLink> */}
           <NavLink to="/engagement" activeStyle>
             Engagement
           </NavLink>

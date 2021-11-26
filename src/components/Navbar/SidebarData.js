@@ -20,12 +20,12 @@ export const SidebarData = [
 
     }, 
 
-    {
-        title: 'Community',
-        path: '/community',
-        cName: 'nav-text'
+    // {
+    //     title: 'Community',
+    //     path: '/community',
+    //     cName: 'nav-text'
 
-    }, 
+    // }, 
 
     {
         title: 'Engagement',
