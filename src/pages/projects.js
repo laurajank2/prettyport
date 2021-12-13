@@ -10,7 +10,6 @@ function Projects() {
         return (
           <li key={index} className="name">
             <h2 className="small-title">{item.title}</h2>
-
             <div className="row">
               <div className="columnimg">
                 <img src={item.image} width="100%" alt={item.imgAlt}></img>

@@ -29,7 +29,7 @@ const ContactMe = () => {
         }}
         className="contactheader"
       >
-        Contact Me
+        Email Me
       </h1>
       <form className="contactbody" onSubmit={sendEmail}>
         <label className="elementname">Name</label>

@@ -1,6 +1,19 @@
 export const ProjectData = [
     
     {
+        title: 'Student Clinic for Immigrant Justice',
+        date: "November 2021 - Present",
+        image: "https://namati.org/wp-content/uploads/2020/09/SCIJ-final.png",
+        info1: "Volunteering to help build database and use interface for the database",
+        info2: "Working with professional in the field to complete the project",
+        info3: "Organizing database with hundreds of entries with filters and search",
+        imgAlt: "Photo of my graph final project",
+        imgCName: "img",
+        headerCName: 'title'
+
+    }, 
+    
+    {
         title: 'SBUDNIC',
         date: "September 2021 - Present",
         image: "https://sbudnic.netlify.app/static/media/sbudnicN.aeb9041e.png",
@@ -16,7 +29,7 @@ export const ProjectData = [
     {
         title: 'Hack@Brown',
         date: "October 2021 - Present",
-        image: "https://media-exp1.licdn.com/dms/image/C4E12AQHWlo-K_MQg6A/article-cover_image-shrink_720_1280/0/1548781066591?e=1641427200&v=beta&t=xji7F5TQvb8KcVZzJ6t7JGx-cORBTP7zFsbPPuZkqSY",
+        image: "https://i.ibb.co/QHwVrJb/IMG-1344.jpg",
         info1: "Development Team member for Brown University's Hackathon, Hack@Brown",
         info2: "Creating website for the hackathon and implementing both front end and back end to the project",
         info3: "Working in a team of 10 to make sure the website is running for next spring",

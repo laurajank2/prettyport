@@ -1,6 +1,21 @@
 export const AccomplishmentsData = [
   
   {
+    name: "Red Pulley",
+    title: "Screenwriting Intern",
+    date: "October 2021 - December 2021",
+    image:
+      "https://edmontonscaffolding.com/wp-content/uploads/2017/08/Red-Scaffold-Pulley.jpg",
+    info1:
+      "Read TV series and movie scripts and wrote reports with specific and overall revisions and thoughts",
+    info2:
+      "Worked with Johnathan Groff on the scripts to improve them and make them ready to be shot",
+    imgAlt: "gold award logo",
+    imgCName: "img",
+    headerCName: "name",
+  },
+  
+  {
     name: "Cynthia Mendes Staff",
     title: "Policy Intern",
     date: "March 2021 - July 2021",

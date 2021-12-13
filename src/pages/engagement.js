@@ -1,6 +1,7 @@
 import React from "react";
 import { AccomplishmentsData } from "./accomplishmentsData";
 import "./../styles/engagement.css";
+import "./../styles/projects.css";
 
 function Engagement() {
   return (
@@ -17,9 +18,10 @@ function Engagement() {
               <div className="ecolumnimg">
                 <img src={item.image} width="100%" alt={item.imgAlt}></img>
               </div>
-              <div className="ecolumninfo">
+              <div className="columninfo">
                 <h2>{item.name}</h2>
-                <p className="edate">{item.date}</p>
+                <h3>{item.title}</h3>
+                <p>{item.date}</p>
                 <ul>
                   <li>{item.info1}</li>
                   <li>{item.info2}</li>
