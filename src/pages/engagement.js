@@ -19,8 +19,8 @@ function Engagement() {
                 <img src={item.image} width="100%" alt={item.imgAlt}></img>
               </div>
               <div className="columninfo">
-                <h2>{item.name}</h2>
-                <h3>{item.title}</h3>
+                <h2 className = "ename">{item.name}</h2>
+                <h3 className = "etitle">{item.title}</h3>
                 <p>{item.date}</p>
                 <ul>
                   <li>{item.info1}</li>
