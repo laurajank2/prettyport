@@ -75,3 +75,20 @@
   background-color: rgb(167, 197, 197, 0.5); /* Green */
   color: rgb(138, 143, 143);
 }
+
+@media screen and (max-width: 600px) {
+  .contactheader {
+    font-size: 10vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2vh;
+  }
+
+  .contactbody {
+    width: 90vw;
+  }
+
+  .contactform {
+    width: 90vw;
+  }
+
+}

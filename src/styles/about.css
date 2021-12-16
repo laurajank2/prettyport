@@ -33,13 +33,22 @@
 }
 
 @media screen and (max-width: 600px) {
+  
+  .aboutheader {
+    font-size: 10vw;
+  }
+  
   .aboutimg {
-    width: 100%;
+    width: 100vw;
     height: 70vh;
     padding: 0vh;
     padding-bottom: 5vh;
-    object-position: 0 5%;
+    object-position: 10 0;
     object-fit: cover;
+  }
+
+  .aboutinfo {
+    padding: 2.5vw;
   }
   
 }
