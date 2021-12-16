@@ -26,7 +26,7 @@ function App() {
             <Route path="/community" component={Community} />
             <Route path="/engagement" component={Engagement} />
           </Switch>
-          <Footer />
+          {/* <Footer /> */}
         </Router>
     </div>
   );

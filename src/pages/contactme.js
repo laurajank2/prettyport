@@ -43,7 +43,7 @@ const ContactMe = () => {
         <br />
         <label className="elementname">Message</label>
         <br />
-        <textarea className="contactform" name="message" rows=""></textarea>
+        <textarea className="contactform" name="message" rows="10"></textarea>
         <br />
         <button className="btncu" type="submit" value="send">
           Send{" "}
