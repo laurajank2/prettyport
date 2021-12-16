@@ -46,7 +46,7 @@ export const Bars = styled(FaBars)`
     top: 0;
     right: 0;
     transform: translate(-100%, 75%);
-    font-size: 1.8rem;
+    font-size: 2rem;
     cursor: pointer;
   }
 
@@ -56,7 +56,7 @@ export const Bars = styled(FaBars)`
     top: 0;
     right: 0;
     transform: translate(-20%, 20%);
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     cursor: pointer;
   }
 `;

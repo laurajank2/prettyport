@@ -51,12 +51,15 @@
 
 @media screen and (max-width: 720px) {
   .eheader {
-    font: bolder 10vw "Josefin Slab";
+    font: bolder 15vw "Josefin Slab";
+    margin-top: 2.5vh;
   }
 
   .ecolumninfo {
     flex:none;
   }
+
+  
 
 }
 
