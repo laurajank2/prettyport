@@ -1,6 +1,6 @@
 .text {
   font-family: "Josefin Sans", sans-serif;
-  font: bolder 10vh "Josefin Sans";
+  font: bolder 12vw "Josefin Sans";
   text-align: left;
   background: url("https://media0.giphy.com/media/lFNmSjRDN9SiLJ3a9Z/200.gif")
     center;
@@ -17,8 +17,10 @@
   .columninfo {
     flex: none;
   }
+}
 
+@media screen and (min-width: 1500px) {
   .text {
-    font: bolder 12vw "Josefin Sans";
+    font-size: 8vw;
   }
 }

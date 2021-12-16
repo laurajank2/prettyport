@@ -19,6 +19,7 @@ const ContactMe = () => {
     e.target.reset();
   }
 
+
   return (
     <div>
       <h1
@@ -42,7 +43,7 @@ const ContactMe = () => {
         <br />
         <label className="elementname">Message</label>
         <br />
-        <textarea className="contactform" name="message" rows="10"></textarea>
+        <textarea className="contactform" name="message" rows=""></textarea>
         <br />
         <button className="btncu" type="submit" value="send">
           Send{" "}
