@@ -19,17 +19,11 @@
   object-fit: cover;
 }
 
-.gallery__item--1 {
-  grid-column-start: 1;
-  grid-column-end: 3;
-  grid-row-start: 1;
-  grid-row-end: 10;
-
-  /** Alternative Syntax **/
-  /* grid-column: 1 / span 2;  */
-  /* grid-row: 1 / span 2; */
+.gallery__word {
+  width: 30vw;
 }
 
+/* Laura protrait */
 .gallery__item--2 {
   grid-column-start: 1;
   grid-column-end: 3;
@@ -41,11 +35,24 @@
   /* grid-row: 1 / span 2; */
 }
 
+/*brown photo */
 .gallery__item--3 {
   grid-column-start: 3;
   grid-column-end: 9;
   grid-row-start: 1;
   grid-row-end: 5;
+
+  /** Alternative Syntax **/
+  /* grid-column: 5 / span 4;
+    grid-row: 1 / span 5; */
+}
+
+/*brown words */
+.gallery__item--3-1 {
+  grid-column-start: 6;
+  grid-column-end: 9;
+  grid-row-start: 1;
+  grid-row-end: 4;
 
   /** Alternative Syntax **/
   /* grid-column: 5 / span 4;
@@ -73,9 +80,21 @@
   /* grid-column: 1 / span 4; */
   /* grid-row: 6 / span 3; */
 }
-
+/*PV photo*/
 .gallery__item--6 {
   grid-column-start: 1;
+  grid-column-end: 9;
+  grid-row-start: 5;
+  grid-row-end: 9;
+
+  /** Alternative Syntax **/
+  /* grid-column: 5 / span 4; */
+  /* grid-row: 6 / span 3; */
+}
+
+/*PV words*/
+.gallery__item--6-1 {
+  grid-column-start: 6;
   grid-column-end: 9;
   grid-row-start: 5;
   grid-row-end: 9;
@@ -97,6 +116,34 @@
     /* grid-row: 1 / span 2; */
   }
 
+  /*brown words */
+  .gallery__item--3-1 {
+    grid-column-start: 4;
+    grid-column-end: 9;
+    grid-row-start: 1;
+    grid-row-end: 5;
+
+    /** Alternative Syntax **/
+    /* grid-column: 5 / span 4;
+    grid-row: 1 / span 5; */
+  }
+
+  /*PV words*/
+.gallery__item--6-1 {
+  grid-column-start: 4;
+  grid-column-end: 9;
+  grid-row-start: 5;
+  grid-row-end: 9;
+
+  /** Alternative Syntax **/
+  /* grid-column: 5 / span 4; */
+  /* grid-row: 6 / span 3; */
+}
+
+  .gallery__word {
+    width: 60vw;
+  }
+
   .gallery__item--2 {
     grid-column-start: 0;
     grid-column-end: 0;
@@ -108,4 +155,5 @@
     /* grid-column: 5 / span 4;
       grid-row: 1 / span 5; */
   }
+
 }

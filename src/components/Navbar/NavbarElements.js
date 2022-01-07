@@ -50,7 +50,7 @@ export const Bars = styled(FaBars)`
     cursor: pointer;
   }
 
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 768px) {
     display: block;
     position: absolute;
     top: 0;

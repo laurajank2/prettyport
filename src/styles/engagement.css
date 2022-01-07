@@ -21,6 +21,10 @@
   list-style: none;
 }
 
+.edate {
+  font-size: 2vw;
+}
+
 .einfo {
   font-size: 20px;
 }
@@ -45,11 +49,6 @@
   font-family: "Josefin Sans", serif;
 }
 
-.edate {
-  font-size: 3vh;
-}
-
-
 @media screen and (max-width: 720px) {
   .eheader {
     font: bolder 15vw "Josefin Slab";
@@ -69,6 +68,10 @@
   }
 
   .etitle {
+    font-size: 2vw;
+  }
+
+  .edate {
     font-size: 2vw;
   }
 

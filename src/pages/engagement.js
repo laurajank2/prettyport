@@ -21,7 +21,7 @@ function Engagement() {
               <div className="columninfo">
                 <h2 className = "ename">{item.name}</h2>
                 <h3 className = "etitle">{item.title}</h3>
-                <p>{item.date}</p>
+                <p className = "edate">{item.date}</p>
                 <ul>
                   <li>{item.info1}</li>
                   <li>{item.info2}</li>
