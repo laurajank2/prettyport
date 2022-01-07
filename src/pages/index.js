@@ -55,7 +55,7 @@ const Home = () => {
         </figure>
         <figure className="gallery__item gallery__item--6-1">
           <img
-            src="https://i.ibb.co/BzJhZxv/Untitled-Artwork-5.png"
+            src="https://i.ibb.co/cgXyXPt/Untitled-Artwork-6.png"
             className="gallery__word"
             alt="PV words"
           />

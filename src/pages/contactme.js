@@ -49,6 +49,7 @@ const ContactMe = () => {
           Send{" "}
         </button>
       </form>
+      <br/>
     </div>
   );
 };

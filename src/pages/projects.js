@@ -26,6 +26,7 @@ function Projects() {
           </li>
         );
       })}
+      <br />
     </div>
   );
 }
