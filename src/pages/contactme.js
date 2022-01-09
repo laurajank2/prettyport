@@ -35,15 +35,21 @@ const ContactMe = () => {
       <form className="contactbody" onSubmit={sendEmail}>
         <label className="elementname">Name</label>
         <br />
+        <br />
         <input className="contactform" type="text" name="name"></input>
+        <br />
         <br />
         <label className="elementname">Email</label>
         <br />
+        <br />
         <input className="contactform" type="email" name="user_email"></input>
+        <br />
         <br />
         <label className="elementname">Message</label>
         <br />
+        <br />
         <textarea className="contactform" name="message" rows="10"></textarea>
+        <br />
         <br />
         <button className="btncu" type="submit" value="send">
           Send{" "}
