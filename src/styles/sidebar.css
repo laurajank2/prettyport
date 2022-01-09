@@ -36,7 +36,7 @@
   padding: 8px 0px 8px 16px;
   list-style: none;
   height: 60px;
-  margin: auto !important;
+  margin-right: 45px;
 }
 
 .nav-text a {
@@ -44,10 +44,8 @@
   text-decoration: none;
   color: #f5f5f5;
   font-size: 30px;
-  width: 50%;
   height: 100%;
   align-items: center;
-  padding: 10px 16px;
   text-align: center;
   margin: auto;
 }
@@ -60,6 +58,7 @@
 .nav-menu-items {
   margin: auto;
   text-align: center;
+  width: 100%;
 }
 
 .navbar-toggle {
