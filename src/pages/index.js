@@ -27,7 +27,7 @@ const Home = () => {
         </figure>
         <figure className="gallery__item--3-1">
           <img
-            src="https://i.ibb.co/YXYLSm0/Untitled-Artwork-4.png"
+            src="https://i.ibb.co/T2jf9dk/Untitled-Artwork-7.png"
             className="gallery__word"
             alt="brown_words"
           />
