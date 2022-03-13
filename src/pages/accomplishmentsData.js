@@ -10,7 +10,7 @@ export const AccomplishmentsData = [
       "Read TV series and movie scripts and wrote reports with specific and overall revisions and thoughts",
     info2:
       "Worked with Johnathan Groff on the scripts to improve them and make them ready to be shot",
-    imgAlt: "gold award logo",
+    imgAlt: "red pulley",
     imgCName: "img",
     headerCName: "name",
   },
@@ -25,7 +25,7 @@ export const AccomplishmentsData = [
       "Reviewed upcoming bills for Rhode Island State Senator Cynthia Mendes",
     info2:
       "Wrote reports about the outcomes and implications of voting for or against a bill",
-    imgAlt: "gold award logo",
+    imgAlt: "cynthia mendes",
     imgCName: "img",
     headerCName: "name",
   },
