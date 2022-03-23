@@ -4,7 +4,7 @@ export const ProjectData = [
         title: 'Student Clinic for Immigrant Justice',
         date: "November 2021 - Present",
         image: "https://namati.org/wp-content/uploads/2020/09/SCIJ-final.png",
-        info1: "Volunteering to help build database and use interface for the database",
+        info1: "Volunteering to help build database and user interface for the database",
         info2: "Working with professional in the field to complete the project",
         info3: "Organizing database with hundreds of entries with filters and search",
         imgAlt: "Photo of my graph final project",
@@ -19,7 +19,7 @@ export const ProjectData = [
         image: "https://sbudnic.netlify.app/static/media/sbudnicN.aeb9041e.png",
         info1: "Onboard Data Handling for U3 Cubesat satellite",
         info2: "Creating software for Arduino that uses C++ to give satellite needed functionality",
-        info3: "Working in team of 5 to write and debug code for launch in March 2022",
+        info3: "Working in team of 5 to write and debug code for launch in June 2022",
         imgAlt: "Photo of my graph final project",
         imgCName: "img",
         headerCName: 'title'
