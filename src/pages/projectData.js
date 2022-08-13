@@ -1,13 +1,26 @@
 export const ProjectData = [
     
     {
+        title: "Meta University Engineering Intern",
+        date: "June 2022 - August 2022",
+        image: "https://www.dezeen.com/2021/11/03/meta-facebook-rebrand-infinity-loop/",
+        info1: "Created original iOS application for 7 weeks using Objective C and Xcode",
+        info2: "App features include sharing posts and saving them in Parse backend, location sharing, following other users, animations, filters, data management, and more",
+        info3: "Also made Twitter, Instagram, and Netflix clones",
+        imgAlt: "Meta logo",
+        imgCName: "img",
+        headerCName: 'title'
+
+    }, 
+
+    {
         title: 'Student Clinic for Immigrant Justice',
         date: "November 2021 - Present",
         image: "https://namati.org/wp-content/uploads/2020/09/SCIJ-final.png",
         info1: "Volunteering to help build database and user interface for the database",
         info2: "Working with professional in the field to complete the project",
         info3: "Organizing database with hundreds of entries with filters and search",
-        imgAlt: "Photo of my graph final project",
+        imgAlt: "student clinic for immigrant Justice logo",
         imgCName: "img",
         headerCName: 'title'
 
@@ -20,7 +33,7 @@ export const ProjectData = [
         info1: "Onboard Data Handling for U3 Cubesat satellite",
         info2: "Creating software for Arduino that uses C++ to give satellite needed functionality",
         info3: "Working in team of 5 to write and debug code for launch in June 2022",
-        imgAlt: "Photo of my graph final project",
+        imgAlt: "SBUDNIC Logo",
         imgCName: "img",
         headerCName: 'title'
 
@@ -33,7 +46,7 @@ export const ProjectData = [
         info1: "Development Team member for Brown University's Hackathon, Hack@Brown",
         info2: "Creating website for the hackathon and implementing both front end and back end to the project",
         info3: "Working in a team of 10 to make sure the website is running for next spring",
-        imgAlt: "Photo of my graph final project",
+        imgAlt: "Hack@Brown Logo",
         imgCName: "img",
         headerCName: 'title'
 
