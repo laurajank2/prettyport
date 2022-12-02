@@ -48,9 +48,9 @@ const Home = () => {
         </figure> */}
         <figure className="gallery__item gallery__item--6">
           <img
-            src="https://www.stevens.edu/sites/stevens_edu/files/styles/news_detail/public/Machine-Learning-v2-shutterstock_1092234560_0.jpg?itok=ND7tZKQ5"
+            src="https://www.stevens.edu/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fmviowpldu823%2F9ceb260f53f108d6185043478b9ae6c2%2F6b49fdd1022912ec78fc019c4955fe49%2FMachine-Learning-v2-shutterstock_1092234560_0.jpg%3Fw%3D1200%26h%3D675%26f%3Dface%26q%3D80%26fit%3Dfill&w=1200&q=80"
             className="gallery__img"
-            alt="PV img"
+            alt="computer science and computer science image"
           />
         </figure>
         <figure className="gallery__item gallery__item--6-1">
