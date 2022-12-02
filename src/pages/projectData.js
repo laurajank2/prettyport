@@ -1,5 +1,19 @@
 export const ProjectData = [
     
+    
+    
+    {
+        title: "Meta University Engineering Intern",
+        date: "June 2022 - August 2022",
+        image: "https://sdchamber.org/wp-content/uploads/2022/02/Meta-Logo.png",
+        info1: "Created original iOS application for 7 weeks using Objective C and Xcode",
+        info2: "App features include sharing posts and saving them in Parse backend, location sharing, following other users, animations, filters, data management, and more",
+        info3: "Also made Twitter, Instagram, and Netflix clones",
+        imgAlt: "Meta logo",
+        imgCName: "img",
+        headerCName: 'title'
+
+    }, 
     {
         title: "Meta University Engineering Intern",
         date: "June 2022 - August 2022",
