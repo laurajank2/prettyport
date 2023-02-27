@@ -16,8 +16,21 @@ export const ProjectData = [
     },  
 
     {
+        title: "Software Engineering Final Project: Ratty Match",
+        date: "April 2022 - May 2022",
+        image:"https://i.ibb.co/2yGg39t/Screenshot-2023-02-26-at-11-52-09-PM.png",
+        info1: "Worked in team of four to create a website where students can rank dishes at the Brown dining hall, the Ratty",
+        info2: "Featured an algorithm that generated a monthly plan of recommended dishes",
+        info3: "Front end Made with a React, Typescript, HTML, and CSS, and a java backend",
+        imgAlt: "Website homescreen",
+        imgCName: "img",
+        headerCName: 'title'
+
+    }, 
+
+    {
         title: 'Student Clinic for Immigrant Justice',
-        date: "November 2021 - Present",
+        date: "November 2021 - April 2022",
         image: "https://namati.org/wp-content/uploads/2020/09/SCIJ-final.png",
         info1: "Volunteering to help build database and user interface for the database",
         info2: "Working with professional in the field to complete the project",
@@ -30,7 +43,7 @@ export const ProjectData = [
     
     {
         title: 'SBUDNIC',
-        date: "September 2021 - Present",
+        date: "September 2021 - May 2022, January 2023 - Present",
         image: "https://sbudnic.netlify.app/static/media/sbudnicN.aeb9041e.png",
         info1: "Onboard Data Handling for U3 Cubesat satellite",
         info2: "Creating software for Arduino that uses C++ to give satellite needed functionality",
@@ -43,7 +56,7 @@ export const ProjectData = [
 
     {
         title: 'Hack@Brown',
-        date: "October 2021 - Present",
+        date: "October 2021 - January 2022",
         image: "https://i.ibb.co/QHwVrJb/IMG-1344.jpg",
         info1: "Development Team member for Brown University's Hackathon, Hack@Brown",
         info2: "Creating website for the hackathon and implementing both front end and back end to the project",

@@ -3,7 +3,7 @@ export const AccomplishmentsData = [
   {
     name: "The Jasmine Dragon",
     title: "President",
-    date: "January 2023 - Current",
+    date: "January 2023 - Present",
     image:"https://i.ibb.co/QYXxpsY/DALL-E-2023-01-26-20-04-31-Cute-dragon-drinking-milk-tea-with-boba-clip-art.png",
     info1:
       "Created a club whose purpose is to bring a community to boba lovers on Brown's campus through boba-themed events",
@@ -20,7 +20,7 @@ export const AccomplishmentsData = [
     date: "August 2022 - December 2022",
     image:"https://i.ibb.co/jwsZDjk/F3-D54-E3-C-F46-B-478-C-AC04-4-E9400-F0-B56-D-1-201-a.jpg",
     info1:
-      "Studied abroad in Barcelona and took classes related to topics in cognitive neuroscience, such as biopsychology and childhood development",
+      "Studied abroad in Barcelona and took classes in Castilian Spanish related to topics in cognitive neuroscience, such as biopsychology and childhood development",
     info2:
       "Gained fluency in Castilian spanish, intermediate understanding of Catalan, and a better understanding of European culture and world relations",
     imgAlt: "laura in spain",
