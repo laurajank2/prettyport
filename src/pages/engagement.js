@@ -9,7 +9,7 @@ function Engagement() {
       <h1 className="eheader">Engagement</h1>
       <p className="description">
         This page contains a description of engagement and accomplishments that
-        are not directly related to Computer Science projects.
+        are not directly related to computer science projects.
       </p>
       {AccomplishmentsData.map((item, index) => {
         return (

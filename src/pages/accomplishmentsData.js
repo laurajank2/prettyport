@@ -1,6 +1,20 @@
 export const AccomplishmentsData = [
   
   {
+    name: "The Jasmine Dragon",
+    title: "President",
+    date: "January 2023 - Current",
+    image:"https://i.ibb.co/QYXxpsY/DALL-E-2023-01-26-20-04-31-Cute-dragon-drinking-milk-tea-with-boba-clip-art.png",
+    info1:
+      "Created a club whose purpose is to bring a community to boba lovers on Brown's campus through boba-themed events",
+    info2:
+      "After gaining 300 members in a week, redesigned meetings to accommodate large groups and have a sense of community",
+    imgAlt: "The Jasmine Dragon Logo",
+    imgCName: "img",
+    headerCName: "name",
+  },
+  
+  {
     name: "Study Abroad in Spain",
     title: "International Student",
     date: "August 2022 - December 2022",
