@@ -18,7 +18,7 @@ export const ProjectData = [
     {
         title: "KadaKareer Project Manager",
         date: "May 2023 - Present",
-        image: "https://miro.medium.com/v2/resize:fit:1200/0*Ijj1Hq-nrYoM21my",
+        image: "https://www.hbs.edu/news/PublishingImages/KadaKareer2.jpg",
         info1: "Volunteering as Program Manager for the non-profit KadaKareer",
         info2: "Managing a team of engineers to make a new platform for career discourse",
         info3: "Meeting with clients and engineers to conduct the team to success",
