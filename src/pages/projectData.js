@@ -5,7 +5,7 @@ export const ProjectData = [
     {
         title: "Starbucks Software Engineer Intern",
         date: "May 2023 - Present",
-        image: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png",
+        image: "https://restaurantclicks.com/wp-content/uploads/2021/10/best-starbucks-drinks.jpg",
         info1: "Working as a software engineer on internal software at Starbucks",
         info2: "Located at Starbucks Headquarters and collaborating with full time engineers",
         info3: "Interacting with other interns to create innovative software",
@@ -14,10 +14,11 @@ export const ProjectData = [
         headerCName: 'title'
 
     },
+    
     {
         title: "KadaKareer Project Manager",
         date: "May 2023 - Present",
-        image: "https://www.hbs.edu/news/PublishingImages/KadaKareer2.jpg",
+        image: "https://miro.medium.com/v2/resize:fit:1200/0*Ijj1Hq-nrYoM21my",
         info1: "Volunteering as Program Manager for the non-profit KadaKareer",
         info2: "Managing a team of engineers to make a new platform for career discourse",
         info3: "Meeting with clients and engineers to conduct the team to success",
