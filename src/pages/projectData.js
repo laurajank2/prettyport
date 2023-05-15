@@ -3,6 +3,18 @@ export const ProjectData = [
     
     
     {
+        title: "KadaKareer Project Manager",
+        date: "May 2023 - Present",
+        image: "https://www.hbs.edu/news/PublishingImages/KadaKareer2.jpg",
+        info1: "Volunteering as Program Manager for the non-profit KadaKareer",
+        info2: "Managing a team of engineers to make a new platform for career discourse",
+        info3: "Meeting with clients and engineers to conduct the team to success",
+        imgAlt: "kadakareer blurb",
+        imgCName: "img",
+        headerCName: 'title'
+
+    },
+    {
         title: "Meta University Engineering Intern",
         date: "June 2022 - August 2022",
         image: "https://sdchamber.org/wp-content/uploads/2022/02/Meta-Logo.png",
