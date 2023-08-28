@@ -33,12 +33,12 @@ export const AccomplishmentsData = [
     title: "Screenwriting Intern",
     date: "October 2021 - December 2021",
     image:
-      "https://edmontonscaffolding.com/wp-content/uploads/2017/08/Red-Scaffold-Pulley.jpg",
+      "https://flxt.tmsimg.com/assets/p22186583_b_v12_ab.jpg",
     info1:
-      "Read TV series and movie scripts and wrote reports with specific and overall revisions and thoughts",
+      "Read and gave reviews of screenplays for CEO Johnathan Groff; feedback centered on character believability",
     info2:
-      "Worked with Johnathan Groff on the scripts to improve them and make them ready to be shot",
-    imgAlt: "red pulley logo",
+      "Revised screenplay for Disney+’s Everything’s Trash(90% on Rotten Tomatoes) pilot, Paramount movie, and more",
+    imgAlt: "everything's trash banner",
     imgCName: "img",
     headerCName: "name",
   },
@@ -48,7 +48,7 @@ export const AccomplishmentsData = [
     title: "Policy Intern",
     date: "March 2021 - July 2021",
     image:
-      "https://pbs.twimg.com/profile_images/1440669874993307653/X1uQ5c13_400x400.jpg",
+      "https://cdn.runforsomething.net/candidates/2020/07/campaign/1056.jpg",
     info1:
       "Reviewed upcoming bills for Rhode Island State Senator Cynthia Mendes",
     info2:
