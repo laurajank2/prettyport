@@ -49,6 +49,12 @@
   font-family: "Josefin Sans", serif;
 }
 
+.engimg {
+  width:"100%";
+  height:"100%";
+  object-fit: cover;
+}
+
 @media screen and (max-width: 720px) {
   .eheader {
     font: bolder 15vw "Josefin Slab";

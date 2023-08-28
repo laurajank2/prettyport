@@ -16,7 +16,7 @@ function Engagement() {
           <li key={index} className="name">
             <div className="row">
               <div className="ecolumnimg">
-                <img src={item.image} width="100%" alt={item.imgAlt}></img>
+                <img src={item.image} className='engimg' alt={item.imgAlt}></img>
               </div>
               <div className="columninfo">
                 <h2 className = "ename">{item.name}</h2>
