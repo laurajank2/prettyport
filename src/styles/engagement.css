@@ -45,7 +45,7 @@
   flex: 25%;
   background-color: white;
   font-size: 20px;
-  padding: 10px;
+  padding: 2vw;
   font-family: "Josefin Sans", serif;
 }
 
@@ -70,8 +70,8 @@
   }
 
   .engimg {
-    width: 95vw;
-    height: 95vw;
+    width: 96vw;
+    height: 96vw;
   }
 
 }
