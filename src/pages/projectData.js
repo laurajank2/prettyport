@@ -1,6 +1,19 @@
 export const ProjectData = [
 
     {
+        title: 'SBUDNIC',
+        date: "September 2021 - Present",
+        image: "https://sbudnic.netlify.app/static/media/sbudnicN.aeb9041e.png",
+        info1: "Coded software functionality, such as a watchdog timer, in C++ for U3 CubeSat satellite with an Arduino System",
+        info2: "Designed circuit diagrams, soldered, and poured space-grade epoxy for the satellite, which is now in space",
+        info3: "Contributed to research paper for NASA and presented work in person at COSPAR conference in Singapore",
+        imgAlt: "SBUDNIC Logo",
+        imgCName: "img",
+        headerCName: 'title'
+
+    },
+    
+    {
         title: "Starbucks Software Engineer Intern",
         date: "May 2023 - August 2023",
         image: "https://restaurantclicks.com/wp-content/uploads/2021/10/best-starbucks-drinks.jpg",
@@ -62,20 +75,7 @@ export const ProjectData = [
         imgCName: "img",
         headerCName: 'title'
 
-    }, 
-    
-    {
-        title: 'SBUDNIC',
-        date: "September 2021 - May 2022, January 2023 - Present",
-        image: "https://sbudnic.netlify.app/static/media/sbudnicN.aeb9041e.png",
-        info1: "Onboard Data Handling for U3 Cubesat satellite",
-        info2: "Creating software for Arduino that uses C++ to give satellite needed functionality",
-        info3: "Working in team of 5 to write and debug code for launch in June 2022",
-        imgAlt: "SBUDNIC Logo",
-        imgCName: "img",
-        headerCName: 'title'
-
-    }, 
+    },  
 
     {
         title: 'Hack@Brown',
