@@ -1,3 +1,5 @@
+import BlockbusterBudgets from '../photos/BlockbusterBudgets.png'
+
 export const ProjectData = [
 
     {
@@ -34,6 +36,32 @@ export const ProjectData = [
         info2: "Managing a team of engineers to make a new platform for career discourse",
         info3: "Meeting with clients and engineers to conduct the team to success",
         imgAlt: "kadakareer blurb",
+        imgCName: "img",
+        headerCName: 'title'
+
+    },
+
+    {
+        title: "Deep Learning in the Mind, Brain, and Machines Final Project: Got Your Back",
+        date: "April 2023 - May 2023",
+        image: 'https://www.researchgate.net/publication/337771814/figure/fig1/AS:832806989074433@1575568067583/Semantic-segmentation-examples-using-WASPnet.ppm',
+        info1: "Wrote 15 page research proposal to study the relationship between background testing and foreground testing in different AI image recognition systems",
+        info2: "Referenced 23 and read 30+ scientific journal articles about object recognition, types of background training and foreground testing that incorporates various adversarial attacks",
+        info3: "Worked with Professor Thomas Serre, Faculty Director of the Center for Computation & Visualization to refine project proposal and make it ready for research in Fall 2023",
+        imgAlt: "Foreground and background segmentation example",
+        imgCName: "img",
+        headerCName: 'title'
+
+    },
+
+    {
+        title: "Data Science Final Project: Blockbuster Budgets",
+        date: "February 2023 - May 2023",
+        image: BlockbusterBudgets,
+        info1: "Scraped, cleaned, and analyzed 1000+ item size data set of movies including movie title, budget, gross, release date, and more",
+        info2: "Used machine learning data analysis techniques that we implemented in class such as linear regression and k-means",
+        info3: "Incorporated hypothesis testing to determine whether relationships between movie budget, rating, and gross revenue were significant",
+        imgAlt: "Blockbuster budgets poster",
         imgCName: "img",
         headerCName: 'title'
 
