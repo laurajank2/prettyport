@@ -42,7 +42,7 @@ export const ProjectData = [
     },
 
     {
-        title: "Deep Learning in the Mind, Brain, and Machines Final Project: Got Your Back",
+        title: "Deep Learning: Mind, Brain, and Machines Final Project",
         date: "April 2023 - May 2023",
         image: 'https://www.researchgate.net/publication/337771814/figure/fig1/AS:832806989074433@1575568067583/Semantic-segmentation-examples-using-WASPnet.ppm',
         info1: "Wrote 15 page research proposal to study the relationship between background testing and foreground testing in different AI image recognition systems",
