@@ -51,8 +51,8 @@
 }
 
 .nav-text a:hover {
-  opacity: 0.9;
-  color: #fadde8;
+  opacity: 1;
+  color: #6d7692;
 }
 
 .nav-menu-items {
