@@ -14,10 +14,10 @@
 }
 
 .small-title {
-  margin-left: 5vh;
-  margin-right: 5vh;
-  font-family: "Josefin Slab", serif;
+  width: auto;
+  padding: 1vw;
   background-color: white;
+  font-family: "Josefin Slab", serif;
 }
 
 .info {
