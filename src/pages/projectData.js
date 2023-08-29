@@ -54,7 +54,7 @@ export const ProjectData = [
     {
         title: 'Student Clinic for Immigrant Justice',
         date: "November 2021 - April 2022",
-        image: "https://namati.org/wp-content/uploads/2020/09/SCIJ-final.png",
+        image: "https://static1.squarespace.com/static/5f09322fafd11c219609f606/t/5f713b9e080c5d3cdcb952a4/1690831285431/",
         info1: "Volunteering to help build database and user interface for the database",
         info2: "Working with professional in the field to complete the project",
         info3: "Organizing database with hundreds of entries with filters and search",
