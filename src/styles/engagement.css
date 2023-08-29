@@ -39,14 +39,14 @@
   background-color: white;
   font-size: 20px;
   font-family: "Josefin Sans", serif;
-  padding: 2vw;
+  padding: 1vw;
 }
 
 .ecolumnimg {
   flex: 25%;
   background-color: white;
   font-size: 20px;
-  padding: 2vw;
+  padding: 1vw;
   font-family: "Josefin Sans", serif;
 }
 
@@ -71,8 +71,8 @@
   }
 
   .engimg {
-    width: 96vw;
-    height: 96vw;
+    width: 98vw;
+    height: 98vw;
   }
 
 }

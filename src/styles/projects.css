@@ -33,7 +33,7 @@
 
 .columninfo {
   flex: 33.33%;
-  padding: 2vw;
+  padding: 1vw;
   background-color: white;
   font-size: 20px;
   font-family: "Josefin Sans", serif;
@@ -42,7 +42,7 @@
 .columnimg {
   flex: 33.33%;
   float: right;
-  padding: 5px;
+  padding: 1vw;
   background-color: white;
   font-size: 20px;
   font-family: "Josefin Sans", serif;
