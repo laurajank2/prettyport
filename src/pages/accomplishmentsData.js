@@ -37,7 +37,7 @@ export const AccomplishmentsData = [
     info1:
       "Read and gave reviews of screenplays for CEO Johnathan Groff; feedback centered on character believability",
     info2:
-      "Revised screenplay for Disney+’s Everything’s Trash(90% on Rotten Tomatoes) pilot, Paramount movie, and more",
+      "Revised screenplay for Disney+’s Everything’s Trash (90% on Rotten Tomatoes) pilot, Paramount movie, and more",
     imgAlt: "everything's trash banner",
     imgCName: "img",
     headerCName: "name",
