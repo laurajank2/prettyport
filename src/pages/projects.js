@@ -9,7 +9,8 @@ function Projects() {
       {ProjectData.map((item, index) => {
         return (
           <li key={index} className="name">
-            <h2 className="small-title">{item.title}</h2>
+            <span className="small-title">{item.title}</span>
+            
             <div className="row">
               <div className="columnimg">
                 <img src={item.image} width="100%" alt={item.imgAlt}></img>
