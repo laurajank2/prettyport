@@ -51,10 +51,12 @@ export const ProjectData = [
     title: "KadaKareer Project Manager",
     date: "May 2023 - July 2023",
     image: "https://www.hbs.edu/news/PublishingImages/KadaKareer2.jpg",
-    info1: "Volunteering as Program Manager for the non-profit KadaKareer",
+    info1:
+      "Volunteered as Program Manager for the non-profit KadaKareer through Develop for Good",
     info2:
-      "Managing a team of engineers to make a new platform for career discourse",
-    info3: "Meeting with clients and engineers to conduct the team to success",
+      "Managed a team of engineers to make a new platform for career discourse that includes posts, badges, and more",
+    info3:
+      "Met with Kadakareer engineers, Kadakareer managers, volunteer engineers, and Develop for Good reprentatives to create a project plan and complete the project",
     imgAlt: "kadakareer blurb",
     imgCName: "img",
     headerCName: "title",
