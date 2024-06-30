@@ -1,4 +1,4 @@
-import JasmineDragonLogo from "./../photos/JasmineDragonLogo.png";
+import JasmineDragonLogo from "../photos/DataScienceLogo.png";
 
 export const AccomplishmentsData = [
   
