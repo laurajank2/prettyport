@@ -78,7 +78,7 @@ export const AccomplishmentsData = [
     title: "Troop President",
     date: "September 2008 - June 2020",
     image:
-      "https://uniim-share.shutterfly.com/v2/procsrserv/47a7da35b3127cce9854c92e462a00000030000AaOHLZo3ZtGQg/cC/rx=326/ry=286/cr=0.0521978,0.0,0.9478022,1",
+      "../photos/GirlScoutLogo",
     info1:
       "Participated in Girl Scouts for 12 years and served as Patrol Leader, Vice President, and President",
     info2:
