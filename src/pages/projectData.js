@@ -2,8 +2,23 @@ import BlockbusterBudgets from "../photos/BlockbusterBudgets.png";
 
 export const ProjectData = [
   {
+    title: "Data Science Teaching Assistant",
+    date: "September 2023 - December 2023",
+    image:
+      "src\photos\Data-Science-Institute-Logo-Suite-OUTLINE_primary_Vt.png",
+    info1:
+      "Assisted teaching Data Science at Brown Universtity by running labs, office hours, grading and answering online questions",
+    info2:
+      "Guided three groups' final projects over several months in a project manager style role, giving feedback and holding meetings at each step of the project",
+    info3:
+      "Class topics include SQL, web scraping, statistics, machine learning, data visualization, and more",
+    imgAlt: "SBUDNIC Logo",
+    imgCName: "img",
+    headerCName: "title",
+  },
+  {
     title: "Math Teaching Fellow",
-    date: "September 2023 - Present",
+    date: "September 2023 - December 2023",
     image:
       "https://www.brown.edu/academics/math/sites/math/files/DOM_2%20Color%20Process%20ST_0.jpg",
     info1:
@@ -12,13 +27,13 @@ export const ProjectData = [
       "Special semester-long certificate program to understand how to be an effective teaching assistant in the Math Department and make mathematics more accessible",
     info3:
       "Learned how to enhance growth mindset and equity in mathematics through group discussions, research, and teaching with the professor in the classroom",
-    imgAlt: "SBUDNIC Logo",
+    imgAlt: "Brown University Math Teaching Fellow logo",
     imgCName: "img",
     headerCName: "title",
   },
   {
     title: "SBUDNIC",
-    date: "September 2021 - Present",
+    date: "September 2021 - May 2024",
     image: "https://sbudnic.netlify.app/static/media/sbudnicN.aeb9041e.png",
     info1:
       "Coded software functionality, such as a watchdog timer, in C++ for U3 CubeSat satellite with an Arduino System",
