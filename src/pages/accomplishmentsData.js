@@ -1,10 +1,12 @@
+import JasmineDragonLogo from "../photos/JasmineDragonLogo.png";
+
 export const AccomplishmentsData = [
   
   {
     name: "The Jasmine Dragon",
     title: "President",
     date: "January 2023 - May 2024",
-    image:"src\photos\jasminedragonlogo.png",
+    image: JasmineDragonLogo,
     info1:
       "Created a club whose purpose is to bring a community to boba lovers on Brown's campus through boba-themed events",
     info2:
