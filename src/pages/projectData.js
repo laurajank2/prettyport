@@ -1,18 +1,20 @@
 import BlockbusterBudgets from "../photos/BlockbusterBudgets.png";
+import DataScienceLogo from "../photos/DataScienceLogo.png";
+
 
 export const ProjectData = [
   {
     title: "Data Science Teaching Assistant",
     date: "September 2023 - December 2023",
     image:
-      "src\photos\Data-Science-Institute-Logo-Suite-OUTLINE_primary_Vt.png",
+    DataScienceLogo,
     info1:
       "Assisted teaching Data Science at Brown Universtity by running labs, office hours, grading and answering online questions",
     info2:
       "Guided three groups' final projects over several months in a project manager style role, giving feedback and holding meetings at each step of the project",
     info3:
       "Class topics include SQL, web scraping, statistics, machine learning, data visualization, and more",
-    imgAlt: "SBUDNIC Logo",
+    imgAlt: "Data Science Logo",
     imgCName: "img",
     headerCName: "title",
   },

@@ -32,7 +32,9 @@ export const NavLink = styled(Link)`
   }
   &.active {
     color: #020203;
+    font-weight: 500;
     font-family: 'Josefin Slab', serif;
+    
   }
 `;
 

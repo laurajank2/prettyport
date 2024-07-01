@@ -1,10 +1,13 @@
+import JasmineDragonLogo from "../photos/JasmineDragonLogo.png";
+import GirlScoutLogo from "../photos/GirlScoutLogo.jpg";
+
 export const AccomplishmentsData = [
   
   {
     name: "The Jasmine Dragon",
     title: "President",
     date: "January 2023 - May 2024",
-    image: "../photos/JasmineDragonLogo.png",
+    image: JasmineDragonLogo,
     info1:
       "Created a club whose purpose is to bring a community to boba lovers on Brown's campus through boba-themed events",
     info2:
@@ -78,7 +81,7 @@ export const AccomplishmentsData = [
     title: "Troop President",
     date: "September 2008 - June 2020",
     image:
-      "../photos/GirlScoutLogo",
+      GirlScoutLogo,
     info1:
       "Participated in Girl Scouts for 12 years and served as Patrol Leader, Vice President, and President",
     info2:
@@ -134,7 +137,7 @@ export const AccomplishmentsData = [
 
   {
     name: "Gold Award",
-    title: "Girl Scout Eagle Equivalent",
+    title: "Highest Award in Girl Scouts",
     date: "April, 2019",
     image:
       "https://1.bp.blogspot.com/-gUrLaV_jpO8/TZys4yBb85I/AAAAAAAABbo/fvlsroQR96M/s1600/gold%2Baward.jpg",
