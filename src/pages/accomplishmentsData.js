@@ -1,5 +1,4 @@
-import JasmineDragonLogo from "./../photos/JasmineDragonLogo.png";
-import GirlScoutLogo from "./../photos/GirlScoutLogo.jpg";
+import photos from './photoAssets'
 
 export const AccomplishmentsData = [
   
@@ -7,7 +6,7 @@ export const AccomplishmentsData = [
     name: "The Jasmine Dragon",
     title: "President",
     date: "January 2023 - May 2024",
-    image: JasmineDragonLogo,
+    image: "https://i.ibb.co/87bPLMX/Jasmine-Dragon-Logo.png" ,
     info1:
       "Created a club whose purpose is to bring a community to boba lovers on Brown's campus through boba-themed events",
     info2:
@@ -81,7 +80,7 @@ export const AccomplishmentsData = [
     title: "Troop President",
     date: "September 2008 - June 2020",
     image:
-      GirlScoutLogo,
+      photos.GirlScoutLogo,
     info1:
       "Participated in Girl Scouts for 12 years and served as Patrol Leader, Vice President, and President",
     info2:
