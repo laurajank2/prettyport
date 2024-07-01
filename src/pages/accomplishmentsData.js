@@ -1,5 +1,5 @@
-import JasmineDragonLogo from "../photos/JasmineDragonLogo.png";
-import GirlScoutLogo from "../photos/GirlScoutLogo.jpg";
+import JasmineDragonLogo from "./../photos/JasmineDragonLogo.png";
+import GirlScoutLogo from "./../photos/GirlScoutLogo.jpg";
 
 export const AccomplishmentsData = [
   
