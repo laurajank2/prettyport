@@ -1,4 +1,3 @@
-import photos from './photoAssets'
 
 export const AccomplishmentsData = [
   
@@ -80,7 +79,7 @@ export const AccomplishmentsData = [
     title: "Troop President",
     date: "September 2008 - June 2020",
     image:
-      photos.GirlScoutLogo,
+    "https://i.ibb.co/CmccSyS/Girl-Scout-Logo.jpg",
     info1:
       "Participated in Girl Scouts for 12 years and served as Patrol Leader, Vice President, and President",
     info2:

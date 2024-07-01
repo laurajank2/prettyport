@@ -1,4 +1,4 @@
-import photos from './photoAssets'
+import BlockbusterBudgets from "../photos/BlockbusterBudgets.png"
 
 
 export const ProjectData = [
@@ -6,7 +6,7 @@ export const ProjectData = [
     title: "Data Science Teaching Assistant",
     date: "September 2023 - December 2023",
     image:
-    photos.DataScienceLogo,
+    "https://i.ibb.co/Xbp6Jth/Data-Science-Logo.png" ,
     info1:
       "Assisted teaching Data Science at Brown Universtity by running labs, office hours, grading and answering online questions",
     info2:
@@ -97,7 +97,7 @@ export const ProjectData = [
   {
     title: "Data Science Final Project: Blockbuster Budgets",
     date: "February 2023 - May 2023",
-    image: photos.BlockbusterBudgets,
+    image: BlockbusterBudgets,
     info1:
       "Scraped, cleaned, and analyzed 1000+ item size data set of movies including movie title, budget, gross, release date, and more",
     info2:
